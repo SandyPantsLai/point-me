@@ -1,1 +1,3 @@
-# point_me
+# point-me
+
+Test app for learning Heroku
