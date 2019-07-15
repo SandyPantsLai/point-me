@@ -6,5 +6,5 @@ def main():
     return 'Hello World!'
 
 @app.route('/blue')
-def main():
+def blue():
     return 'Blue!'
