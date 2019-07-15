@@ -5,6 +5,6 @@ app = Flask( __name__ )
 def main():
     return 'Redirected to Blue from /!'
 
-@app.route('/blue/')
+@app.route('/blue')
 def blue():
     return 'Blue!'
